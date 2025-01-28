@@ -1,0 +1,26 @@
+/home/dinesh/Git/auto-git.sh: line 11: lftp: command not found
+fatal: detected dubious ownership in repository at '/home/dinesh/Git'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/dinesh/Git
+fatal: detected dubious ownership in repository at '/home/dinesh/Git'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/dinesh/Git
+fatal: detected dubious ownership in repository at '/home/dinesh/Git'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/dinesh/Git
+/home/dinesh/Git/auto-git.sh: line 11: lftp: command not found
+fatal: detected dubious ownership in repository at '/home/dinesh/Git'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/dinesh/Git
+fatal: detected dubious ownership in repository at '/home/dinesh/Git'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/dinesh/Git
+fatal: detected dubious ownership in repository at '/home/dinesh/Git'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/dinesh/Git
